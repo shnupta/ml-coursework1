@@ -3,3 +3,6 @@
 
 # Jupyter stuff
 .ipynb_checkpoints/
+
+# IDE stuff
+.idea/
